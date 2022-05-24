@@ -1,0 +1,19 @@
+site url="sso.fema.net/ASTC/">
+<compat-mode>Default</compat-mode>
+<open-in>IE11</open-in>
+</site>
+
+<site url="dmarts.fema.net">
+<compat-mode>Default</compat-mode>
+<open-in allow-redirect="true">None</open-in>
+</site>
+
+<site url="sso.fema.net/mailroom/">
+<compat-mode>Default</compat-mode>
+<open-in>IE11</open-in>
+</site>
+
+<site url="anyconnect.dhs.gov">
+<compat-mode>Default</compat-mode>
+<open-in>IE11</open-in>
+</site>
