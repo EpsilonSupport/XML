@@ -1,19 +1,31 @@
-<site url="sso.fema.net/ASTC/">
-<compat-mode>Default</compat-mode>
-<open-in>IE11</open-in>
-</site>
-
-<site url="dmarts.fema.net">
-<compat-mode>Default</compat-mode>
-<open-in allow-redirect="true">None</open-in>
-</site>
-
-<site url="sso.fema.net/mailroom/">
-<compat-mode>Default</compat-mode>
-<open-in>IE11</open-in>
-</site>
-
-<site url="anyconnect.dhs.gov">
-<compat-mode>Default</compat-mode>
-<open-in>IE11</open-in>
-</site>
+<site-list version="1">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>05/24/2022 15:34:01</date-created>
+  </created-by>
+  <site url="anyconnect.dhs.gov">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="sso.fema.net/ASTC/">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="dmarts.fema.net">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="sso.fema.net/mailroom/">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ats.fema.net">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="datafacts.instascreen.net">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
